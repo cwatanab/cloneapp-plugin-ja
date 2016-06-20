@@ -1,0 +1,14 @@
+[Info]
+Title=MacType
+Description=Backup MacType Configuration in Program directory.
+Author=cwatanab
+AuthorURL=https://github.com/cwatanab/cloneapp-plugin-ja
+Author=cwatanab
+BackupFile=1
+BackupFolder=1
+BackupRegKey=0
+RunCommand=0
+
+[Files]
+File1=BackupFile|%ProgramFiles%\MacType\MacType.ini
+File2=BackupFolder|%ProgramFiles%\MacType\ini

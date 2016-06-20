@@ -1,0 +1,13 @@
+[Info]
+Title=Opera Config
+Description=Backup Opera Config in AppData directory.
+Version=Compatible with Opera Stable.
+BackupFile=1
+BackupFolder=0
+BackupRegKey=0
+RunCommand=0
+
+[Files]
+File1=BackupFile|%AppData%\Opera Software\Opera Stable\Bookmarks
+File2=BackupFile|%AppData%\Opera Software\Opera Stable\Cookies
+File3=BackupFile|%AppData%\Opera Software\Opera Stable\Preferences
