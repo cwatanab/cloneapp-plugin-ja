@@ -1,0 +1,15 @@
+[Info]
+Title=Visual Studio Code
+Description=Backup Visual Studio Code Configuration
+Author=cwatanab
+AuthorURL=https://github.com/cwatanab/cloneapp-plugin-ja
+Author=cwatanab
+BackupFile=0
+BackupFolder=2
+BackupRegKey=0
+RunCommand=0
+
+[Files]
+File1=BackupFolder|%USERPROFILE%\.vscode
+File2=BackupFolder|%AppData%\code
+

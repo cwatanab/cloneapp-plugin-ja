@@ -1,0 +1,16 @@
+[Info]
+Title=Typora
+Description=Backup Typora Configuration.
+Author=cwatanab
+AuthorURL=https://github.com/cwatanab/cloneapp-plugin-ja
+BackupFile=1
+BackupFolder=2
+BackupRegKey=0
+RunCommand=0
+
+[Files]
+File1=BackupFile|%AppData%\Typora\Preferences
+File2=BackupFolder|%AppData%\Typora\conf
+File3=BackupFolder|%AppData%\Typora\themes
+
+
